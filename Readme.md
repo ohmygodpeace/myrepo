@@ -1,2 +1,2 @@
 #Git 파일입니다
-안뇽하세여 저는 배꾸미뇽임다
+## git command test
